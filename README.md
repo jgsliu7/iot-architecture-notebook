@@ -24,7 +24,7 @@
 
 ## 相关链接
 
-- CSDN 博客（本书系列连载）：https://blog.csdn.net/liupengfei123456
+- CSDN 博客（本书系列连载）：https://blog.csdn.net/liupengfei123456/category_1065480.html
 
 ## 版权许可
 
